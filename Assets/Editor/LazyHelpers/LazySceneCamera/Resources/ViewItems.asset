@@ -13,119 +13,15 @@ MonoBehaviour:
   m_Name: ViewItems
   m_EditorClassIdentifier: 
   viewItems:
-  - viewName: aaaaaaaaaaaaaaaaaaaa
+  - viewName: View 1
     sceneName: SampleScene
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: aaaaaaaaaaaaaa2aaaaa
+    viewPosition: {x: -0.696613, y: 38.15545, z: 10.217386}
+    viewRotation: {x: 0.03415718, y: 0.8144838, z: -0.57717437, w: 0.04820177}
+  - viewName: View 2
     sceneName: SampleScene
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: aaaaaaaaaaaaaaaaa412
+    viewPosition: {x: -4.8727074, y: -7.934159, z: 9.480553}
+    viewRotation: {x: -0.065263234, y: -0.7636149, z: 0.07815793, w: -0.63759583}
+  - viewName: View 3
     sceneName: SampleScene
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: sga
-    sceneName: Test
-    viewPosition: {x: 14.02188, y: -56.51551, z: 31.962067}
-    viewRotation: {x: -0.1827403, y: -0.19383253, z: 0.036773242, w: -0.96316534}
-  - viewName: sfa
-    sceneName: Test
-    viewPosition: {x: 14.02188, y: -56.51551, z: 31.962067}
-    viewRotation: {x: -0.1827403, y: -0.19383253, z: 0.036773242, w: -0.96316534}
-  - viewName: fgagssagsags
-    sceneName: Test
-    viewPosition: {x: 14.02188, y: -56.51551, z: 31.962067}
-    viewRotation: {x: -0.1827403, y: -0.19383253, z: 0.036773242, w: -0.96316534}
-  - viewName: afsafsa
-    sceneName: Test
-    viewPosition: {x: 14.02188, y: -56.51551, z: 31.962067}
-    viewRotation: {x: -0.1827403, y: -0.19383253, z: 0.036773242, w: -0.96316534}
-  - viewName: asfas
-    sceneName: Test
-    viewPosition: {x: 14.02188, y: -56.51551, z: 31.962067}
-    viewRotation: {x: -0.1827403, y: -0.19383253, z: 0.036773242, w: -0.96316534}
-  - viewName: aaaa
-    sceneName: Test
-    viewPosition: {x: 14.02188, y: -56.51551, z: 31.962067}
-    viewRotation: {x: -0.1827403, y: -0.19383253, z: 0.036773242, w: -0.96316534}
-  - viewName: aaa
-    sceneName: Test
-    viewPosition: {x: 14.02188, y: -56.51551, z: 31.962067}
-    viewRotation: {x: -0.1827403, y: -0.19383253, z: 0.036773242, w: -0.96316534}
-  - viewName: aaaaa
-    sceneName: Test
-    viewPosition: {x: 14.02188, y: -56.51551, z: 31.962067}
-    viewRotation: {x: -0.1827403, y: -0.19383253, z: 0.036773242, w: -0.96316534}
-  - viewName: 1vf23rv`32
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: 4c`
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: 2
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: 41x`
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: 223c
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: 5`
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: 12
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: x`
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: 
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: t
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: '`32c'
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: t3
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: 21v
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: c5t
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: 2`t
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: vc2
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: 1c
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
-  - viewName: t1
-    sceneName: Test
-    viewPosition: {x: 0, y: 0, z: 0}
-    viewRotation: {x: 0, y: 0, z: 0, w: 1}
+    viewPosition: {x: -22.96323, y: -1.7265649, z: -6.8733788}
+    viewRotation: {x: 0.00159981, y: -0.9981046, z: -0.053950503, w: -0.029656284}
